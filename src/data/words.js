@@ -1,5 +1,5 @@
 const words = {
-  ѓорче: true,
+ѓорче: true,
 ѓубре: true,
 ѓават: true,
 ѓавол: true,
