@@ -2489,7 +2489,6 @@ const words = {
 групи: true,
 грчки: true,
 гулаг: true,
-га­ри: true,
 габар: true,
 габер: true,
 габон: true,
